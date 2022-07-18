@@ -1,3 +1,9 @@
+#VSCode
+*.vscode
+
+#Output Files
+*main
+
 ##### Windows
 # Windows thumbnail cache files
 Thumbs.db
