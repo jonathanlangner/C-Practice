@@ -38,7 +38,7 @@ int score(const std::vector<int>& dice){
                 fin_count = fin_count - 150 + 500;
                 fin_count = fin_count + 50;
                 num_check = true;
-                num_count[0]++; 
+                num_count[1]++; 
             }
             else{
                fin_count = fin_count + 50;
